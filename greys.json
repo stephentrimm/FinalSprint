@@ -1,0 +1,79 @@
+[
+    {
+      "name": "Meredith Grey",
+      "specialty": "General Surgery",
+      "experienceYears": 15,
+      "isAlive": true,
+      "achievements": [
+        {
+          "title": "Harper Avery Award",
+          "year": 2017
+        },
+        {
+          "title": "Innovative Surgical Technique",
+          "year": 2020
+        }
+      ]
+    },
+    {
+      "name": "Cristina Yang",
+      "specialty": "Cardiothoracic Surgery",
+      "experienceYears": 12,
+      "isAlive": false,
+      "achievements": [
+        {
+          "title": "Harper Avery Award Nomination",
+          "year": 2015
+        },
+        {
+          "title": "Medical Innovator",
+          "year": 2018
+        }
+      ]
+    },
+    {
+      "name": "Miranda Bailey",
+      "specialty": "General Surgery",
+      "experienceYears": 20,
+      "isAlive": true,
+      "achievements": [
+        {
+          "title": "Chief of Surgery",
+          "year": 2010
+        },
+        {
+          "title": "Teaching Excellence Award",
+          "year": 2019
+        }
+      ]
+    },
+    {
+      "name": "Derek Shepherd",
+      "specialty": "Neurosurgery",
+      "experienceYears": 18,
+      "isAlive": false,
+      "achievements": [
+        {
+          "title": "Harper Avery Award",
+          "year": 2014
+        },
+        {
+          "title": "Neurosurgical Pioneer",
+          "year": 2016
+        }
+      ]
+    },
+    {
+      "name": "Alex Karev",
+      "specialty": "Pediatric Surgery",
+      "experienceYears": 10,
+      "isAlive": false,
+      "achievements": [
+        {
+          "title": "Saved a Patient's Life During a Power Outage",
+          "year": 2013
+        }
+      ]
+    }
+  ]
+  
